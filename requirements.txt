@@ -1,0 +1,16 @@
+playwright
+pandas
+beautifulsoup4
+sentence-transformers  # For Semantic matching (Fake vs Real)
+python-dotenv
+asyncio
+openpyxl
+streamlit
+flask
+torch
+transformers
+playwright
+scikit-learn
+plotly
+tqdm
+datasets

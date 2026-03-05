@@ -1,0 +1,11 @@
+   1 py -3.13 -m venv .news_portal_scrapping
+   2 .\.news_portal_scrapping\Scripts\activate
+   3 python -m pip install --upgrade pip
+   4 pip install -r requirements.txt
+   5 pip install -r requirements.txt
+   6 python -m pip install torch transformers pandas scikit-learn tqdm playwright datasets
+   7 pip install transformers[torch]
+   8 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   9 python -m playwright install chromium
+   pip install transformers>=4.41.0 sentence-transformers datasets
+   Clear-History
